@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+  <SMT>server = 10.97.2.11;database=SMT;user id = MunSFUser;</SMT>
+  <QSMS>server = 10.97.2.12;database=QSMS;user id = MunSFUser;</QSMS>
+  <ChkFeederLine>Y</ChkFeederLine>
+  <ChkFirst>N</ChkFirst>
+  <ChkMachine>ALL</ChkMachine>
+  <ChkPolar>N</ChkPolar>
+  <ChkDispatchOrder>Y</ChkDispatchOrder>
+  <ChkDIDTime>N</ChkDIDTime>
+  <TimeSpan>60</TimeSpan>
+  <ErrorReconfirm>N</ErrorReconfirm> 
+  <DoubleChkOldDid>Y</DoubleChkOldDid> 
+  <NotUpLoadDataCheckDIDFail>Y</NotUpLoadDataCheckDIDFail> 
+  <ChkDIDTimeSec>N</ChkDIDTimeSec> 
+  <TimeSpanSec>60</TimeSpanSec> 
+  <ChkVendorPN>N</ChkVendorPN>
+  <CheckBulk>Y</CheckBulk>
+  <ControlLight>Y</ControlLight>
+</config>

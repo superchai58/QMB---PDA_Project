@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="PDA-DIDSlotLink">
+</Property><Property Name="Solution File" Value="D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\PDA-DIDSlotLink.sln">
+</Property><Property Name="User Options File" Value="D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\PDA-DIDSlotLink.suo">
+</Property><Property Name="Date" Value="Tuesday, May 10, 2022">
+</Property><Property Name="Time" Value="13:17 PM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="PDA-DIDSlotLink.sln" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\PDA-DIDSlotLink.sln">
+</Event><Event ErrorLevel="0" Project="" Source="PDA-DIDSlotLink.suo" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\PDA-DIDSlotLink.suo">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="PDA-DIDSlotLink.csproj" Description="Project file successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\PDA-DIDSlotLink.csproj">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="PDA-DIDSlotLink.csproj.user" Description="Project user file successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\PDA-DIDSlotLink.csproj.user">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="EncryptStr.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\EncryptStr.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmChangeFeeder.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmChangeFeeder.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmChangeFeeder.Designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmChangeFeeder.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmDeleteDIDManual.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmDeleteDIDManual.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmDeleteDIDManual.Designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmDeleteDIDManual.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmDistributeDID.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmDistributeDID.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmDistributeDID.Designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmDistributeDID.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmLogin.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmLogin.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmLogin.designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmLogin.designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmNeedSpliced.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmNeedSpliced.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmNeedSpliced.Designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmNeedSpliced.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmCompCompare.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmCompCompare.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmCompCompare.Designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmCompCompare.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmMainTainLink.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmMainTainLink.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmMainTainLink.Designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmMainTainLink.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmRackInfoQuery.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmRackInfoQuery.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmRackInfoQuery.designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmRackInfoQuery.designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmSelect.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmSelect.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmSelect.Designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmSelect.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmSetting.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmSetting.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmSetting.Designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmSetting.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="PDA_Common\Parameter.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\PDA_Common\Parameter.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="PDA_Common\PlaySound.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\PDA_Common\PlaySound.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="PDA_Common\Process.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\PDA_Common\Process.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="PDA_Common\SQLHelper.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\PDA_Common\SQLHelper.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="Program.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\Program.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="RegeditManager.cs" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\RegeditManager.cs">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="bluray.ico" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\bluray.ico">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="PDA_Common\config.xml" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\PDA_Common\config.xml">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmChangeFeeder.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmChangeFeeder.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmDeleteDIDManual.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmDeleteDIDManual.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmDistributeDID.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmDistributeDID.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmLogin.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmLogin.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmNeedSpliced.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmNeedSpliced.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmCompCompare.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmCompCompare.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmMainTainLink.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmMainTainLink.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmRackInfoQuery.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmRackInfoQuery.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmSelect.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmSelect.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="frmSetting.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\frmSetting.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="Properties\Resources.resx" Description="File successfully backed up as D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\Backup3\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="PDA-DIDSlotLink" Source="PDA-DIDSlotLink.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="PDA-DIDSlotLink" Source="PDA-DIDSlotLink.csproj" Description="Converted">
+</Event><Event ErrorLevel="2" Project="PDA-DIDSlotLink" Source="PDA-DIDSlotLink.csproj" Description="The project file 'D:\Program\F4\SMT\PDA\PDA-DIDSlotLink_QMB\PDA-DIDSlotLink\PDA-DIDSlotLink.csproj' cannot be opened.&#xA;&#xA;The project type is not supported by this installation.">
+</Event><Event ErrorLevel="0" Project="" Source="PDA-DIDSlotLink.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="PDA-DIDSlotLink.sln" Description="Converted">
+</Event></UpgradeLog>
